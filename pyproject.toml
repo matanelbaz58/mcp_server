@@ -10,4 +10,5 @@ dependencies = [
     "langchain-openai>=0.3.16",
     "langgraph>=0.4.3",
     "python-dotenv>=1.1.0",
+    "langchain-google-genai>=1.1.3",
 ]
